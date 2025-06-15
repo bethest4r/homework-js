@@ -181,7 +181,7 @@ console.log(canSellAlcohol(user1));  // true
 
 **설명:**
 
-* **화살표 함수(Arrow Function)** 표현식을 사용했습니다.
+* **화살표 함수(Arrow Function)** 표현식을 사용했다.
 * `registrationCard` 객체의 `age` 값이 19 이상인지 판별하는 간단한 조건식으로 `Boolean` 값을 반환한다.
 * 테스트용 객체 `user1`을 만들어 정상 동작을 확인했다.
 
